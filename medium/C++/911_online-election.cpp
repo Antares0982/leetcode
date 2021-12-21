@@ -39,10 +39,14 @@ public:
                 ans[i] = ans[i - 1];
             }
         }
+
+        // delete[] mem;
     }
 
     int q(int t) {
         auto se = [&](const vector<int>::iterator &p) { return *p > t; };
         return ans[upper_bound(tm.begin(), tm.end(), t) - 1 - tm.begin()];
     }
+
+    // ~TopVotedCandidate() { delete[] ans; }
 };
