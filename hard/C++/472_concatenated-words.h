@@ -1,5 +1,5 @@
 /*
- * File: 472_concatenated-words.cpp
+ * File: 472_concatenated-words.h
  * Project: C++
  * File Created: Tuesday, 28th December 2021 2:42:00 pm
  * Author: Antares (antares0982@gmail.com)

@@ -1,5 +1,5 @@
 /*
- * File: 1610_maximum-number-of-visible-points.cpp
+ * File: 1610_maximum-number-of-visible-points.h
  * Project: C++
  * File Created: Tuesday, 21st December 2021 11:26:01 pm
  * Author: Antares (antares0982@gmail.com)

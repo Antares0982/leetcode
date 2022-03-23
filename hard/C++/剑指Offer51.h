@@ -1,5 +1,5 @@
 /*
- * File: 剑指Offer51.cpp
+ * File: 剑指Offer51.h
  * Project: C++
  * File Created: Thursday, 10th February 2022 5:09:26 pm
  * Author: Antares (antares0982@gmail.com)
